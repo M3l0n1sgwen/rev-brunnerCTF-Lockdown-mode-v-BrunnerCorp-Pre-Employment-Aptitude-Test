@@ -17,7 +17,7 @@ Nó cơ bản có thể hiểu nôm na là file backup của window phục vụ 
 
 Và khi tìm hiểu sâu thêm thì mình biết được file này hay được sử dụng cho LEGO MINDSTORMS EV3 Program để chạy EV3 Intelligent Brick của bộ đồ chơi cùng tên.
 
-Vậy thì mình sẽ lên github thử tìm reverseing tool for ev3 lego mindstorms nhé:
+Vậy thì mình sẽ lên github thử tìm reversing tool for ev3 lego mindstorms nhé:
 
 ![image](https://hackmd.io/_uploads/B1BBkidPMl.png)
 
