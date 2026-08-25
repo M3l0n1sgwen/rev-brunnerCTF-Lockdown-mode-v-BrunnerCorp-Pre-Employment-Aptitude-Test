@@ -2699,7 +2699,7 @@ LABEL_14:
 }
 ```
 
-Hàm này rất dài, nhưng có thể tóm gọn cách hoạt động như sau: Timer sẽ sinh target, khi người dùng click trúng target thì sẽ ghi replay và kiểm tra trúng. Nếu trúng thì sẽ tăng điểm. Sau khi hết giờ thì sẽ xuất aim-score.bin.
+Hàm này rất dài, nhưng có thể tóm gọn cách hoạt động như sau: Timer sẽ sinh target bằng thuật toán xorshift64, khi người dùng click trúng target thì sẽ ghi replay và kiểm tra trúng. Nếu trúng thì sẽ tăng điểm. Sau khi hết giờ thì sẽ xuất aim-score.bin.
 
 Vậy qua hàm trên, ta có thể tái tạo lại 1 file aim-score.bin để nộp:
 
