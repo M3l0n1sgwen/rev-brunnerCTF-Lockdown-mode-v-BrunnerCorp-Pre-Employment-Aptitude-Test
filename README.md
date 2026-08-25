@@ -1,7 +1,4 @@
----
-title: rev brunnerCTF/Lockdown-mode và BrunnerCorp Pre-Employment Aptitude Test
 
----
 
 Hello mọi người, nay cùng mình giải quyết 2 bài reverse engineering trong giải BrunnerCTF nhé!
 
